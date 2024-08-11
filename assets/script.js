@@ -45,11 +45,6 @@ $(document).ready(function () {
             const currentDate = new Date().toLocaleDateString();
             let contestDetailsHtml = `
             <div class="d-flex text-white"><span class="fw-bold">Number of Participants: </span>${names.length}</div>
-                <div class="d-flex justify-content-start">
-                
-                <div class="text-white"><span class="fw-bold">Contest: </span>${contestName}</div>
-                <div class="flex-fill text-white"><span class="fw-bold">Date: </span>${currentDate}</div>
-                </div>
             `;
             if (sponsored) {
                 contestDetailsHtml += `<div class="d-flex text-white"><span class="fw-bold">Sponsored by:  </span>${sponsorName}</div>`;
