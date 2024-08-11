@@ -44,10 +44,10 @@ $(document).ready(function () {
 
             const currentDate = new Date().toLocaleDateString();
             let contestDetailsHtml = `
-            <div class="d-flex text-white"><span class="fw-bold">Number of Participants: </span>${names.length}</div>
+            <div class="d-flex text-white"><span class="fw-bold">Number of Participants: </span> ${names.length}</div>
             `;
             if (sponsored) {
-                contestDetailsHtml += `<div class="d-flex text-white"><span class="fw-bold">Sponsored by:  </span>${sponsorName}</div>`;
+                contestDetailsHtml += `<div class="d-flex text-white"><span class="fw-bold">Sponsored by:  </span> ${sponsorName}</div>`;
             }
             $('#contestDetails').html(contestDetailsHtml);
 
