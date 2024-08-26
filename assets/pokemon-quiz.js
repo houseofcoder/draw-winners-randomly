@@ -1,17 +1,17 @@
 let quizData = [];
-let currentQuestionIndex = 0;
+let usedQuestions = new Set();
 let timerInterval;
 
 // Load JSON data from the file
-fetch('https://luckydraw.lol/assets/data/pokemon_data.json')
+fetch('pokemon_data.json')
     .then(response => response.json())
     .then(data => {
         quizData = data;
-        loadQuestion();
+        loadRandomQuestion();
     })
     .catch(error => console.error('Error loading JSON:', error));
 
-function loadQuestion() {
+function loadRandomQuestion() {
     clearInterval(timerInterval);
     document.getElementById('next-btn').style.display = 'none'; // Hide Next button initially
     document.getElementById('show-answer-btn').style.display = 'inline-block'; // Show Show Answer button initially
@@ -75,20 +75,19 @@ function highlightCorrectAnswer(correctAnswer, selectedOption = null) {
 
 // Next button functionality
 document.getElementById('next-btn').addEventListener('click', () => {
-    currentQuestionIndex++;
-    if (currentQuestionIndex < quizData.length) {
-        loadQuestion();
+    if (usedQuestions.size < quizData.length) {
+        loadRandomQuestion();
     } else {
         alert('Quiz Completed!');
         // Optionally, you can reset the quiz or show results here
-        currentQuestionIndex = 0; // Reset for demonstration
-        loadQuestion();
+        usedQuestions.clear(); // Reset the set of used questions for a new round
+        loadRandomQuestion();
     }
 });
 
 document.getElementById('show-answer-btn').addEventListener('click', () => {
     clearInterval(timerInterval);
-    highlightCorrectAnswer(quizData[currentQuestionIndex].pokemon_name);
+    highlightCorrectAnswer(quizData[Array.from(usedQuestions).pop()].pokemon_name);
     document.getElementById('next-btn').style.display = 'inline-block'; // Show Next button when the answer is shown
     document.getElementById('show-answer-btn').style.display = 'none'; // Hide Show Answer button
 });
