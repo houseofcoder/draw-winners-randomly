@@ -3,7 +3,7 @@ let usedQuestions = new Set();
 let timerInterval;
 
 // Load JSON data from the file
-fetch('pokemon_data.json')
+fetch('https://luckydraw.lol/assets/data/pokemon_data.json')
     .then(response => response.json())
     .then(data => {
         quizData = data;
