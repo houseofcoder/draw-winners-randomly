@@ -16,7 +16,15 @@ function loadQuestion() {
     document.getElementById('next-btn').style.display = 'none'; // Hide Next button initially
     document.getElementById('show-answer-btn').style.display = 'inline-block'; // Show Show Answer button initially
 
-    const currentQuestion = quizData[currentQuestionIndex];
+    // Ensure the next question is random and not reused
+    let randomIndex;
+    do {
+        randomIndex = Math.floor(Math.random() * quizData.length);
+    } while (usedQuestions.has(randomIndex) && usedQuestions.size < quizData.length);
+
+    usedQuestions.add(randomIndex);
+
+    const currentQuestion = quizData[randomIndex];
     document.getElementById('pokemon-img').src = currentQuestion.img;
     document.getElementById('options-container').innerHTML = '';
 
