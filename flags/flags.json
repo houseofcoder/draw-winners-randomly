@@ -1,0 +1,3247 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/af-flag.jpg",
+        "country_name": "Afghanistan",
+        "options": [
+            "Italy",
+            "Afghanistan",
+            "Brazil",
+            "Canada"
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/al-flag.jpg",
+        "country_name": "Albania",
+        "options": [
+            "Albania",
+            "Egypt",
+            "Japan",
+            "Nigeria"
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dz-flag.jpg",
+        "country_name": "Algeria",
+        "options": [
+            "Spain",
+            "Russia",
+            "India",
+            "Algeria"
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ad-flag.jpg",
+        "country_name": "Andorra",
+        "options": [
+            "Sweden",
+            "Andorra",
+            "Spain",
+            "France"
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ao-flag.jpg",
+        "country_name": "Angola",
+        "options": [
+            "Australia",
+            "Angola",
+            "Mexico",
+            "Belgium"
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ag-flag.jpg",
+        "country_name": "Antigua and Barbuda",
+        "options": [
+            "Greece",
+            "Norway",
+            "Switzerland",
+            "Antigua and Barbuda"
+        ]
+    },
+    {
+        "id": 7,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ar-flag.jpg",
+        "country_name": "Argentina",
+        "options": [
+            "Finland",
+            "Argentina",
+            "Denmark",
+            "Iceland"
+        ]
+    },
+    {
+        "id": 8,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/am-flag.jpg",
+        "country_name": "Armenia",
+        "options": [
+            "Malaysia",
+            "Armenia",
+            "South Africa",
+            "Portugal"
+        ]
+    },
+    {
+        "id": 9,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/au-flag.jpg",
+        "country_name": "Australia",
+        "options": [
+            "Chile",
+            "Vietnam",
+            "Ghana",
+            "Australia"
+        ]
+    },
+    {
+        "id": 10,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/at-flag.jpg",
+        "country_name": "Austria",
+        "options": [
+            "Kuwait",
+            "Colombia",
+            "Austria",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "id": 11,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/az-flag.jpg",
+        "country_name": "Azerbaijan",
+        "options": [
+            "Azerbaijan",
+            "Thailand",
+            "Czech Republic",
+            "Panama"
+        ]
+    },
+    {
+        "id": 12,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bs-flag.jpg",
+        "country_name": "Bahamas",
+        "options": [
+            "Honduras",
+            "Bahamas",
+            "Malaysia",
+            "Lithuania"
+        ]
+    },
+    {
+        "id": 13,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bh-flag.jpg",
+        "country_name": "Bahrain",
+        "options": [
+            "Estonia",
+            "Iran",
+            "Qatar",
+            "Bahrain"
+        ]
+    },
+    {
+        "id": 14,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bd-flag.jpg",
+        "country_name": "Bangladesh",
+        "options": [
+            "Mali",
+            "Singapore",
+            "Bangladesh",
+            "Ukraine"
+        ]
+    },
+    {
+        "id": 15,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bb-flag.jpg",
+        "country_name": "Barbados",
+        "options": [
+            "Cuba",
+            "Kazakhstan",
+            "Moldova",
+            "Barbados"
+        ]
+    },
+    {
+        "id": 16,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/by-flag.jpg",
+        "country_name": "Belarus",
+        "options": [
+            "Thailand",
+            "Georgia",
+            "Belarus",
+            "Austria"
+        ]
+    },
+    {
+        "id": 17,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/be-flag.jpg",
+        "country_name": "Belgium",
+        "options": [
+            "Belgium",
+            "Luxembourg",
+            "Uganda",
+            "Zambia"
+        ]
+    },
+    {
+        "id": 18,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bz-flag.jpg",
+        "country_name": "Belize",
+        "options": [
+            "Finland",
+            "Belize",
+            "Estonia",
+            "Bahamas"
+        ]
+    },
+    {
+        "id": 19,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bj-flag.jpg",
+        "country_name": "Benin",
+        "options": [
+            "Austria",
+            "Thailand",
+            "Vietnam",
+            "Benin"
+        ]
+    },
+    {
+        "id": 20,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bt-flag.jpg",
+        "country_name": "Bhutan",
+        "options": [
+            "Greece",
+            "Portugal",
+            "Bhutan",
+            "Malaysia"
+        ]
+    },
+    {
+        "id": 21,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bo-flag.jpg",
+        "country_name": "Bolivia",
+        "options": [
+            "Bolivia",
+            "New Zealand",
+            "Bulgaria",
+            "Syria"
+        ]
+    },
+    {
+        "id": 22,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ba-flag.jpg",
+        "country_name": "Bosnia and Herzegovina",
+        "options": [
+            "Bosnia and Herzegovina",
+            "Vietnam",
+            "Kyrgyzstan",
+            "Honduras"
+        ]
+    },
+    {
+        "id": 23,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bw-flag.jpg",
+        "country_name": "Botswana",
+        "options": [
+            "Ukraine",
+            "Spain",
+            "Botswana",
+            "Seychelles"
+        ]
+    },
+    {
+        "id": 24,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/br-flag.jpg",
+        "country_name": "Brazil",
+        "options": [
+            "Brazil",
+            "Ecuador",
+            "Jordan",
+            "Iceland"
+        ]
+    },
+    {
+        "id": 25,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bn-flag.jpg",
+        "country_name": "Brunei",
+        "options": [
+            "Armenia",
+            "Jamaica",
+            "Brunei",
+            "Gabon"
+        ]
+    },
+    {
+        "id": 26,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bg-flag.jpg",
+        "country_name": "Bulgaria",
+        "options": [
+            "Peru",
+            "Sri Lanka",
+            "Bulgaria",
+            "Honduras"
+        ]
+    },
+    {
+        "id": 27,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bf-flag.jpg",
+        "country_name": "Burkina Faso",
+        "options": [
+            "Sweden",
+            "Lebanon",
+            "Burkina Faso",
+            "Egypt"
+        ]
+    },
+    {
+        "id": 28,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bi-flag.jpg",
+        "country_name": "Burundi",
+        "options": [
+            "Mongolia",
+            "Chile",
+            "Burundi",
+            "Italy"
+        ]
+    },
+    {
+        "id": 29,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kh-flag.jpg",
+        "country_name": "Cambodia",
+        "options": [
+            "Australia",
+            "Cambodia",
+            "Iran",
+            "Niger"
+        ]
+    },
+    {
+        "id": 30,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cv-flag.jpg",
+        "country_name": "Cape Verde",
+        "options": [
+            "Kuwait",
+            "Algeria",
+            "Cape Verde",
+            "Malawi"
+        ]
+    },
+    {
+        "id": 31,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/td-flag.jpg",
+        "country_name": "Chad",
+        "options": [
+            "Sweden",
+            "Jamaica",
+            "Chad",
+            "Somalia"
+        ]
+    },
+    {
+        "id": 32,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cl-flag.jpg",
+        "country_name": "Chile",
+        "options": [
+            "Mexico",
+            "Ukraine",
+            "Malta",
+            "Chile"
+        ]
+    },
+    {
+        "id": 33,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cn-flag.jpg",
+        "country_name": "China",
+        "options": [
+            "Ghana",
+            "Ecuador",
+            "Albania",
+            "China"
+        ]
+    },
+    {
+        "id": 34,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/co-flag.jpg",
+        "country_name": "Colombia",
+        "options": [
+            "Greece",
+            "South Korea",
+            "Colombia",
+            "Italy"
+        ]
+    },
+    {
+        "id": 35,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/km-flag.jpg",
+        "country_name": "Comoros",
+        "options": [
+            "Mali",
+            "Senegal",
+            "Comoros",
+            "Norway"
+        ]
+    },
+    {
+        "id": 36,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cg-flag.jpg",
+        "country_name": "Congo",
+        "options": [
+            "Chile",
+            "Lebanon",
+            "Nepal",
+            "Congo"
+        ]
+    },
+    {
+        "id": 37,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cd-flag.jpg",
+        "country_name": "Democratic Republic of the Congo",
+        "options": [
+            "Uganda",
+            "Ethiopia",
+            "Democratic Republic of the Congo",
+            "Czech Republic"
+        ]
+    },
+    {
+        "id": 38,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dk-flag.jpg",
+        "country_name": "Denmark",
+        "options": [
+            "Denmark",
+            "Mongolia",
+            "Argentina",
+            "Lebanon"
+        ]
+    },
+    {
+        "id": 39,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dj-flag.jpg",
+        "country_name": "Djibouti",
+        "options": [
+            "Colombia",
+            "Italy",
+            "Djibouti",
+            "Belgium"
+        ]
+    },
+    {
+        "id": 40,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dm-flag.jpg",
+        "country_name": "Dominica",
+        "options": [
+            "South Korea",
+            "Kuwait",
+            "Dominica",
+            "Zambia"
+        ]
+    },
+    {
+        "id": 41,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/do-flag.jpg",
+        "country_name": "Dominican Republic",
+        "options": [
+            "Dominican Republic",
+            "Italy",
+            "Saudi Arabia",
+            "Ecuador"
+        ]
+    },
+    {
+        "id": 42,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ec-flag.jpg",
+        "country_name": "Ecuador",
+        "options": [
+            "Belize",
+            "Ecuador",
+            "Norway",
+            "Colombia"
+        ]
+    },
+    {
+        "id": 43,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/eg-flag.jpg",
+        "country_name": "Egypt",
+        "options": [
+            "Brunei",
+            "Honduras",
+            "Egypt",
+            "Sweden"
+        ]
+    },
+    {
+        "id": 44,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sv-flag.jpg",
+        "country_name": "El Salvador",
+        "options": [
+            "Poland",
+            "El Salvador",
+            "Sierra Leone",
+            "Togo"
+        ]
+    },
+    {
+        "id": 45,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gq-flag.jpg",
+        "country_name": "Equatorial Guinea",
+        "options": [
+            "Equatorial Guinea",
+            "Ecuador",
+            "Brazil",
+            "Lebanon"
+        ]
+    },
+    {
+        "id": 46,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/er-flag.jpg",
+        "country_name": "Eritrea",
+        "options": [
+            "Honduras",
+            "Spain",
+            "Italy",
+            "Eritrea"
+        ]
+    },
+    {
+        "id": 47,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ee-flag.jpg",
+        "country_name": "Estonia",
+        "options": [
+            "Estonia",
+            "Japan",
+            "Brunei",
+            "Morocco"
+        ]
+    },
+    {
+        "id": 48,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sz-flag.jpg",
+        "country_name": "Eswatini",
+        "options": [
+            "Philippines",
+            "Ireland",
+            "Eswatini",
+            "Czech Republic"
+        ]
+    },
+    {
+        "id": 49,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/et-flag.jpg",
+        "country_name": "Ethiopia",
+        "options": [
+            "Sri Lanka",
+            "Mexico",
+            "Ethiopia",
+            "Zimbabwe"
+        ]
+    },
+    {
+        "id": 50,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/fj-flag.jpg",
+        "country_name": "Fiji",
+        "options": [
+            "Fiji",
+            "Sierra Leone",
+            "Ireland",
+            "Slovakia"
+        ]
+    },
+    {
+        "id": 51,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/fm-flag.jpg",
+        "country_name": "Micronesia",
+        "options": [
+            "Micronesia",
+            "Dominica",
+            "Ireland",
+            "Sudan"
+        ]
+    },
+    {
+        "id": 52,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/fr-flag.jpg",
+        "country_name": "France",
+        "options": [
+            "France",
+            "Morocco",
+            "Taiwan",
+            "Russia"
+        ]
+    },
+    {
+        "id": 53,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ga-flag.jpg",
+        "country_name": "Gabon",
+        "options": [
+            "Portugal",
+            "Burundi",
+            "Gabon",
+            "Morocco"
+        ]
+    },
+    {
+        "id": 54,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gm-flag.jpg",
+        "country_name": "Gambia",
+        "options": [
+            "Malta",
+            "Moldova",
+            "Lebanon",
+            "Gambia"
+        ]
+    },
+    {
+        "id": 55,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gh-flag.jpg",
+        "country_name": "Ghana",
+        "options": [
+            "Armenia",
+            "Ghana",
+            "Japan",
+            "Belarus"
+        ]
+    },
+    {
+        "id": 56,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gn-flag.jpg",
+        "country_name": "Guinea",
+        "options": [
+            "Ecuador",
+            "Algeria",
+            "Guinea",
+            "Kuwait"
+        ]
+    },
+    {
+        "id": 57,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gq-flag.jpg",
+        "country_name": "Equatorial Guinea",
+        "options": [
+            "Kuwait",
+            "Paraguay",
+            "Jordan",
+            "Equatorial Guinea"
+        ]
+    },
+    {
+        "id": 58,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gt-flag.jpg",
+        "country_name": "Guatemala",
+        "options": [
+            "South Korea",
+            "Philippines",
+            "Jamaica",
+            "Guatemala"
+        ]
+    },
+    {
+        "id": 59,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gw-flag.jpg",
+        "country_name": "Guinea-Bissau",
+        "options": [
+            "Portugal",
+            "Czech Republic",
+            "Guinea-Bissau",
+            "El Salvador"
+        ]
+    },
+    {
+        "id": 60,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gy-flag.jpg",
+        "country_name": "Guyana",
+        "options": [
+            "Guyana",
+            "Taiwan",
+            "Sierra Leone",
+            "Pakistan"
+        ]
+    },
+    {
+        "id": 61,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hk-flag.jpg",
+        "country_name": "Hong Kong",
+        "options": [
+            "Italy",
+            "Hong Kong",
+            "Belgium",
+            "Poland"
+        ]
+    },
+    {
+        "id": 62,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hm-flag.jpg",
+        "country_name": "Heard Island and McDonald Islands",
+        "options": [
+            "Heard Island and McDonald Islands",
+            "Ecuador",
+            "Czech Republic",
+            "Indonesia"
+        ]
+    },
+    {
+        "id": 63,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hn-flag.jpg",
+        "country_name": "Honduras",
+        "options": [
+            "Honduras",
+            "Iceland",
+            "South Korea",
+            "Morocco"
+        ]
+    },
+    {
+        "id": 64,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hu-flag.jpg",
+        "country_name": "Hungary",
+        "options": [
+            "Hungary",
+            "Spain",
+            "South Africa",
+            "Romania"
+        ]
+    },
+    {
+        "id": 65,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/is-flag.jpg",
+        "country_name": "Iceland",
+        "options": [
+            "Greece",
+            "Czech Republic",
+            "Iran",
+            "Iceland"
+        ]
+    },
+    {
+        "id": 66,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/in-flag.jpg",
+        "country_name": "India",
+        "options": [
+            "Bhutan",
+            "Pakistan",
+            "India",
+            "Sri Lanka"
+        ]
+    },
+    {
+        "id": 67,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/id-flag.jpg",
+        "country_name": "Indonesia",
+        "options": [
+            "Jordan",
+            "Togo",
+            "Iran",
+            "Indonesia"
+        ]
+    },
+    {
+        "id": 68,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ir-flag.jpg",
+        "country_name": "Iran",
+        "options": [
+            "Jordan",
+            "Honduras",
+            "Mali",
+            "Iran"
+        ]
+    },
+    {
+        "id": 69,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/iq-flag.jpg",
+        "country_name": "Iraq",
+        "options": [
+            "Vietnam",
+            "Brazil",
+            "Somalia",
+            "Iraq"
+        ]
+    },
+    {
+        "id": 70,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ie-flag.jpg",
+        "country_name": "Ireland",
+        "options": [
+            "Ireland",
+            "Switzerland",
+            "South Africa",
+            "Romania"
+        ]
+    },
+    {
+        "id": 71,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/it-flag.jpg",
+        "country_name": "Italy",
+        "options": [
+            "Japan",
+            "Ghana",
+            "Italy",
+            "Lebanon"
+        ]
+    },
+    {
+        "id": 72,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/jm-flag.jpg",
+        "country_name": "Jamaica",
+        "options": [
+            "Jamaica",
+            "Dominica",
+            "Malta",
+            "Trinidad and Tobago"
+        ]
+    },
+    {
+        "id": 73,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/jp-flag.jpg",
+        "country_name": "Japan",
+        "options": [
+            "Turkey",
+            "Japan",
+            "India",
+            "Brazil"
+        ]
+    },
+    {
+        "id": 74,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ke-flag.jpg",
+        "country_name": "Kenya",
+        "options": [
+            "Algeria",
+            "Ghana",
+            "Kenya",
+            "Somalia"
+        ]
+    },
+    {
+        "id": 75,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kg-flag.jpg",
+        "country_name": "Kyrgyzstan",
+        "options": [
+            "Kazakhstan",
+            "Mongolia",
+            "Kyrgyzstan",
+            "Bhutan"
+        ]
+    },
+    {
+        "id": 76,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/la-flag.jpg",
+        "country_name": "Laos",
+        "options": [
+            "Brunei",
+            "Kazakhstan",
+            "Vietnam",
+            "Laos"
+        ]
+    },
+    {
+        "id": 77,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lb-flag.jpg",
+        "country_name": "Lebanon",
+        "options": [
+            "North Korea",
+            "Lebanon",
+            "South Korea",
+            "Malaysia"
+        ]
+    },
+    {
+        "id": 78,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ls-flag.jpg",
+        "country_name": "Lesotho",
+        "options": [
+            "Lesotho",
+            "Colombia",
+            "Ethiopia",
+            "Sri Lanka"
+        ]
+    },
+    {
+        "id": 79,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lv-flag.jpg",
+        "country_name": "Latvia",
+        "options": [
+            "Latvia",
+            "Estonia",
+            "Kazakhstan",
+            "Ukraine"
+        ]
+    },
+    {
+        "id": 80,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/li-flag.jpg",
+        "country_name": "Liechtenstein",
+        "options": [
+            "Italy",
+            "Monaco",
+            "Liechtenstein",
+            "Belgium"
+        ]
+    },
+    {
+        "id": 81,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lk-flag.jpg",
+        "country_name": "Sri Lanka",
+        "options": [
+            "Pakistan",
+            "Sri Lanka",
+            "Ecuador",
+            "Philippines"
+        ]
+    },
+    {
+        "id": 82,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lr-flag.jpg",
+        "country_name": "Liberia",
+        "options": [
+            "Liberia",
+            "Somalia",
+            "Venezuela",
+            "Japan"
+        ]
+    },
+    {
+        "id": 83,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lt-flag.jpg",
+        "country_name": "Lithuania",
+        "options": [
+            "Estonia",
+            "Ukraine",
+            "Lithuania",
+            "Latvia"
+        ]
+    },
+    {
+        "id": 84,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lu-flag.jpg",
+        "country_name": "Luxembourg",
+        "options": [
+            "Slovakia",
+            "Iceland",
+            "Belgium",
+            "Luxembourg"
+        ]
+    },
+    {
+        "id": 85,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mg-flag.jpg",
+        "country_name": "Madagascar",
+        "options": [
+            "Sri Lanka",
+            "Peru",
+            "Indonesia",
+            "Madagascar"
+        ]
+    },
+    {
+        "id": 86,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mk-flag.jpg",
+        "country_name": "North Macedonia",
+        "options": [
+            "Serbia",
+            "Ukraine",
+            "Albania",
+            "North Macedonia"
+        ]
+    },
+    {
+        "id": 87,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ml-flag.jpg",
+        "country_name": "Mali",
+        "options": [
+            "Mali",
+            "Samoa",
+            "Sierra Leone",
+            "Colombia"
+        ]
+    },
+    {
+        "id": 88,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mt-flag.jpg",
+        "country_name": "Malta",
+        "options": [
+            "Belgium",
+            "Togo",
+            "Malta",
+            "Zambia"
+        ]
+    },
+    {
+        "id": 89,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mu-flag.jpg",
+        "country_name": "Mauritius",
+        "options": [
+            "Georgia",
+            "Moldova",
+            "Mauritius",
+            "Colombia"
+        ]
+    },
+    {
+        "id": 90,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mw-flag.jpg",
+        "country_name": "Malawi",
+        "options": [
+            "Mexico",
+            "Mali",
+            "Norway",
+            "Malawi"
+        ]
+    },
+    {
+        "id": 91,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mx-flag.jpg",
+        "country_name": "Mexico",
+        "options": [
+            "Brazil",
+            "Mexico",
+            "Colombia",
+            "Cuba"
+        ]
+    },
+    {
+        "id": 92,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/my-flag.jpg",
+        "country_name": "Malaysia",
+        "options": [
+            "Malaysia",
+            "Myanmar",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+    {
+        "id": 93,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mz-flag.jpg",
+        "country_name": "Mozambique",
+        "options": [
+            "Venezuela",
+            "Peru",
+            "Mozambique",
+            "Italy"
+        ]
+    },
+    {
+        "id": 94,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/na-flag.jpg",
+        "country_name": "Namibia",
+        "options": [
+            "Tanzania",
+            "Namibia",
+            "Peru",
+            "Mozambique"
+        ]
+    },
+    {
+        "id": 95,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/nc-flag.jpg",
+        "country_name": "New Caledonia",
+        "options": [
+            "Australia",
+            "Norway",
+            "Poland",
+            "New Caledonia"
+        ]
+    },
+    {
+        "id": 96,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/nz-flag.jpg",
+        "country_name": "New Zealand",
+        "options": [
+            "Fiji",
+            "Canada",
+            "New Zealand",
+            "Australia"
+        ]
+    },
+    {
+        "id": 97,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ni-flag.jpg",
+        "country_name": "Nicaragua",
+        "options": [
+            "Colombia",
+            "Honduras",
+            "Nicaragua",
+            "Mexico"
+        ]
+    },
+    {
+        "id": 98,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ne-flag.jpg",
+        "country_name": "Niger",
+        "options": [
+            "Sudan",
+            "Niger",
+            "Kenya",
+            "Zambia"
+        ]
+    },
+    {
+        "id": 99,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ng-flag.jpg",
+        "country_name": "Nigeria",
+        "options": [
+            "Benin",
+            "Nigeria",
+            "Kenya",
+            "Togo"
+        ]
+    },
+    {
+        "id": 100,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/no-flag.jpg",
+        "country_name": "Norway",
+        "options": [
+            "Brazil",
+            "Norway",
+            "Ireland",
+            "Czech Republic"
+        ]
+    },
+    {
+        "id": 101,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/om-flag.jpg",
+        "country_name": "Oman",
+        "options": [
+            "Thailand",
+            "Kuwait",
+            "Oman",
+            "Jordan"
+        ]
+    },
+    {
+        "id": 102,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pk-flag.jpg",
+        "country_name": "Pakistan",
+        "options": [
+            "Sri Lanka",
+            "Pakistan",
+            "Bangladesh",
+            "India"
+        ]
+    },
+    {
+        "id": 103,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pn-flag.jpg",
+        "country_name": "Pitcairn Islands",
+        "options": [
+            "Czech Republic",
+            "North Korea",
+            "Pitcairn Islands",
+            "Japan"
+        ]
+    },
+    {
+        "id": 104,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pr-flag.jpg",
+        "country_name": "Puerto Rico",
+        "options": [
+            "Bahamas",
+            "Antigua and Barbuda",
+            "Puerto Rico",
+            "Belize"
+        ]
+    },
+    {
+        "id": 105,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/qa-flag.jpg",
+        "country_name": "Qatar",
+        "options": [
+            "Qatar",
+            "Saudi Arabia",
+            "Iraq",
+            "UAE"
+        ]
+    },
+    {
+        "id": 106,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/re-flag.jpg",
+        "country_name": "R\u00e9union",
+        "options": [
+            "Guadeloupe",
+            "Madagascar",
+            "R\u00e9union",
+            "Australia"
+        ]
+    },
+    {
+        "id": 107,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ro-flag.jpg",
+        "country_name": "Romania",
+        "options": [
+            "Georgia",
+            "Slovakia",
+            "Albania",
+            "Romania"
+        ]
+    },
+    {
+        "id": 108,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ru-flag.jpg",
+        "country_name": "Russia",
+        "options": [
+            "North Korea",
+            "Kazakhstan",
+            "Uzbekistan",
+            "Russia"
+        ]
+    },
+    {
+        "id": 109,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/rw-flag.jpg",
+        "country_name": "Rwanda",
+        "options": [
+            "Burundi",
+            "Uganda",
+            "Rwanda",
+            "Somalia"
+        ]
+    },
+    {
+        "id": 110,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sa-flag.jpg",
+        "country_name": "Saudi Arabia",
+        "options": [
+            "UAE",
+            "Qatar",
+            "Saudi Arabia",
+            "Bahrain"
+        ]
+    },
+    {
+        "id": 111,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sg-flag.jpg",
+        "country_name": "Singapore",
+        "options": [
+            "Singapore",
+            "Malaysia",
+            "Philippines",
+            "Indonesia"
+        ]
+    },
+    {
+        "id": 112,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sh-flag.jpg",
+        "country_name": "Saint Helena",
+        "options": [
+            "Seychelles",
+            "Saint Helena",
+            "Tanzania",
+            "Malta"
+        ]
+    },
+    {
+        "id": 113,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sj-flag.jpg",
+        "country_name": "Svalbard and Jan Mayen",
+        "options": [
+            "Iceland",
+            "Svalbard and Jan Mayen",
+            "Norway",
+            "Denmark"
+        ]
+    },
+    {
+        "id": 114,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sl-flag.jpg",
+        "country_name": "Sierra Leone",
+        "options": [
+            "Mali",
+            "South Sudan",
+            "Kuwait",
+            "Sierra Leone"
+        ]
+    },
+    {
+        "id": 115,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sm-flag.jpg",
+        "country_name": "San Marino",
+        "options": [
+            "San Marino",
+            "Andorra",
+            "Malta",
+            "Liechtenstein"
+        ]
+    },
+    {
+        "id": 116,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sn-flag.jpg",
+        "country_name": "Senegal",
+        "options": [
+            "Somalia",
+            "Togo",
+            "Senegal",
+            "Mali"
+        ]
+    },
+    {
+        "id": 117,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/so-flag.jpg",
+        "country_name": "Somalia",
+        "options": [
+            "Somalia",
+            "Kenya",
+            "Uganda",
+            "Ethiopia"
+        ]
+    },
+    {
+        "id": 118,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sr-flag.jpg",
+        "country_name": "Suriname",
+        "options": [
+            "Suriname",
+            "Guyana",
+            "Trinidad and Tobago",
+            "Belize"
+        ]
+    },
+    {
+        "id": 119,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ss-flag.jpg",
+        "country_name": "South Sudan",
+        "options": [
+            "South Sudan",
+            "Ethiopia",
+            "Kenya",
+            "Uganda"
+        ]
+    },
+    {
+        "id": 120,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sv-flag.jpg",
+        "country_name": "El Salvador",
+        "options": [
+            "Mexico",
+            "Costa Rica",
+            "Honduras",
+            "El Salvador"
+        ]
+    },
+    {
+        "id": 121,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sy-flag.jpg",
+        "country_name": "Syria",
+        "options": [
+            "Syria",
+            "Jordan",
+            "Turkey",
+            "Iran"
+        ]
+    },
+    {
+        "id": 122,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tj-flag.jpg",
+        "country_name": "Tajikistan",
+        "options": [
+            "Kazakhstan",
+            "Uzbekistan",
+            "Kyrgyzstan",
+            "Tajikistan"
+        ]
+    },
+    {
+        "id": 123,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tk-flag.jpg",
+        "country_name": "Tokelau",
+        "options": [
+            "Tonga",
+            "Fiji",
+            "Samoa",
+            "Tokelau"
+        ]
+    },
+    {
+        "id": 124,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tl-flag.jpg",
+        "country_name": "Timor-Leste",
+        "options": [
+            "Cuba",
+            "Timor-Leste",
+            "Costa Rica",
+            "Guatemala"
+        ]
+    },
+    {
+        "id": 125,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tm-flag.jpg",
+        "country_name": "Turkmenistan",
+        "options": [
+            "Kazakhstan",
+            "Uzbekistan",
+            "Tajikistan",
+            "Turkmenistan"
+        ]
+    },
+    {
+        "id": 126,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/to-flag.jpg",
+        "country_name": "Tonga",
+        "options": [
+            "Tonga",
+            "Kiribati",
+            "Samoa",
+            "Fiji"
+        ]
+    },
+    {
+        "id": 127,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tr-flag.jpg",
+        "country_name": "Turkey",
+        "options": [
+            "Cyprus",
+            "Turkey",
+            "Greece",
+            "Italy"
+        ]
+    },
+    {
+        "id": 128,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tv-flag.jpg",
+        "country_name": "Tuvalu",
+        "options": [
+            "Samoa",
+            "Kiribati",
+            "Tuvalu",
+            "Tonga"
+        ]
+    },
+    {
+        "id": 129,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tz-flag.jpg",
+        "country_name": "Tanzania",
+        "options": [
+            "Tanzania",
+            "Uganda",
+            "Zambia",
+            "Mozambique"
+        ]
+    },
+    {
+        "id": 130,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ua-flag.jpg",
+        "country_name": "Ukraine",
+        "options": [
+            "Romania",
+            "Poland",
+            "Hungary",
+            "Ukraine"
+        ]
+    },
+    {
+        "id": 131,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ug-flag.jpg",
+        "country_name": "Uganda",
+        "options": [
+            "Tanzania",
+            "Kenya",
+            "Uganda",
+            "Rwanda"
+        ]
+    },
+    {
+        "id": 132,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gb-flag.jpg",
+        "country_name": "United Kingdom",
+        "options": [
+            "Australia",
+            "Canada",
+            "United Kingdom",
+            "Ireland"
+        ]
+    },
+    {
+        "id": 133,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/us-flag.jpg",
+        "country_name": "United States",
+        "options": [
+            "United States",
+            "Brazil",
+            "Mexico",
+            "Canada"
+        ]
+    },
+    {
+        "id": 134,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/uy-flag.jpg",
+        "country_name": "Uruguay",
+        "options": [
+            "Uruguay",
+            "Chile",
+            "Paraguay",
+            "Argentina"
+        ]
+    },
+    {
+        "id": 135,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/uz-flag.jpg",
+        "country_name": "Uzbekistan",
+        "options": [
+            "Uzbekistan",
+            "Kyrgyzstan",
+            "Tajikistan",
+            "Kazakhstan"
+        ]
+    },
+    {
+        "id": 136,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ve-flag.jpg",
+        "country_name": "Venezuela",
+        "options": [
+            "Peru",
+            "Venezuela",
+            "Ecuador",
+            "Colombia"
+        ]
+    },
+    {
+        "id": 137,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/vg-flag.jpg",
+        "country_name": "British Virgin Islands",
+        "options": [
+            "Montserrat",
+            "Cayman Islands",
+            "Turks and Caicos Islands",
+            "British Virgin Islands"
+        ]
+    },
+    {
+        "id": 138,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/vu-flag.jpg",
+        "country_name": "Vanuatu",
+        "options": [
+            "Samoa",
+            "Tuvalu",
+            "Vanuatu",
+            "Fiji"
+        ]
+    },
+    {
+        "id": 139,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ws-flag.jpg",
+        "country_name": "Samoa",
+        "options": [
+            "Fiji",
+            "Kiribati",
+            "Tonga",
+            "Samoa"
+        ]
+    },
+    {
+        "id": 140,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ye-flag.jpg",
+        "country_name": "Yemen",
+        "options": [
+            "Yemen",
+            "Syria",
+            "Jordan",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "id": 141,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/zw-flag.jpg",
+        "country_name": "Zimbabwe",
+        "options": [
+            "South Africa",
+            "Zambia",
+            "Botswana",
+            "Zimbabwe"
+        ]
+    },
+    {
+        "id": 142,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/af-flag.jpg",
+        "country_name": "Afghanistan",
+        "options": [
+            "Afghanistan",
+            "Pakistan",
+            "Iraq",
+            "Iran"
+        ]
+    },
+    {
+        "id": 143,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/al-flag.jpg",
+        "country_name": "Albania",
+        "options": [
+            "Albania",
+            "Montenegro",
+            "Kosovo",
+            "North Macedonia"
+        ]
+    },
+    {
+        "id": 144,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ad-flag.jpg",
+        "country_name": "Andorra",
+        "options": [
+            "Malta",
+            "Monaco",
+            "Liechtenstein",
+            "Andorra"
+        ]
+    },
+    {
+        "id": 145,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ao-flag.jpg",
+        "country_name": "Angola",
+        "options": [
+            "Namibia",
+            "South Africa",
+            "Angola",
+            "Mozambique"
+        ]
+    },
+    {
+        "id": 146,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ag-flag.jpg",
+        "country_name": "Antigua and Barbuda",
+        "options": [
+            "Antigua and Barbuda",
+            "Saint Kitts and Nevis",
+            "Barbados",
+            "Bahamas"
+        ]
+    },
+    {
+        "id": 147,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ar-flag.jpg",
+        "country_name": "Argentina",
+        "options": [
+            "Brazil",
+            "Paraguay",
+            "Argentina",
+            "Chile"
+        ]
+    },
+    {
+        "id": 148,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/am-flag.jpg",
+        "country_name": "Armenia",
+        "options": [
+            "Armenia",
+            "Georgia",
+            "Azerbaijan",
+            "Turkey"
+        ]
+    },
+    {
+        "id": 149,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/aw-flag.jpg",
+        "country_name": "Aruba",
+        "options": [
+            "Aruba",
+            "Curacao",
+            "Bonaire",
+            "Sint Maarten"
+        ]
+    },
+    {
+        "id": 150,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/au-flag.jpg",
+        "country_name": "Australia",
+        "options": [
+            "Australia",
+            "New Zealand",
+            "Papua New Guinea",
+            "Fiji"
+        ]
+    },
+    {
+        "id": 151,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/at-flag.jpg",
+        "country_name": "Austria",
+        "options": [
+            "Switzerland",
+            "Germany",
+            "Hungary",
+            "Austria"
+        ]
+    },
+    {
+        "id": 152,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/az-flag.jpg",
+        "country_name": "Azerbaijan",
+        "options": [
+            "Azerbaijan",
+            "Turkey",
+            "Armenia",
+            "Georgia"
+        ]
+    },
+    {
+        "id": 153,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bb-flag.jpg",
+        "country_name": "Barbados",
+        "options": [
+            "Jamaica",
+            "Saint Lucia",
+            "Bahamas",
+            "Barbados"
+        ]
+    },
+    {
+        "id": 154,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bd-flag.jpg",
+        "country_name": "Bangladesh",
+        "options": [
+            "Bangladesh",
+            "Pakistan",
+            "Nepal",
+            "India"
+        ]
+    },
+    {
+        "id": 155,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/be-flag.jpg",
+        "country_name": "Belgium",
+        "options": [
+            "Netherlands",
+            "Luxembourg",
+            "Belgium",
+            "France"
+        ]
+    },
+    {
+        "id": 156,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bf-flag.jpg",
+        "country_name": "Burkina Faso",
+        "options": [
+            "Ghana",
+            "Niger",
+            "Burkina Faso",
+            "Mali"
+        ]
+    },
+    {
+        "id": 157,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bg-flag.jpg",
+        "country_name": "Bulgaria",
+        "options": [
+            "Bulgaria",
+            "Serbia",
+            "Greece",
+            "Romania"
+        ]
+    },
+    {
+        "id": 158,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bh-flag.jpg",
+        "country_name": "Bahrain",
+        "options": [
+            "Kuwait",
+            "Bahrain",
+            "Saudi Arabia",
+            "Qatar"
+        ]
+    },
+    {
+        "id": 159,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bi-flag.jpg",
+        "country_name": "Burundi",
+        "options": [
+            "Tanzania",
+            "Kenya",
+            "Rwanda",
+            "Burundi"
+        ]
+    },
+    {
+        "id": 160,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bn-flag.jpg",
+        "country_name": "Brunei",
+        "options": [
+            "Malaysia",
+            "Indonesia",
+            "Brunei",
+            "Thailand"
+        ]
+    },
+    {
+        "id": 161,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bo-flag.jpg",
+        "country_name": "Bolivia",
+        "options": [
+            "Bolivia",
+            "Paraguay",
+            "Argentina",
+            "Chile"
+        ]
+    },
+    {
+        "id": 162,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bq-flag.jpg",
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "options": [
+            "Bonaire, Sint Eustatius and Saba",
+            "Cura\u00e7ao",
+            "Sint Maarten",
+            "Aruba"
+        ]
+    },
+    {
+        "id": 163,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/br-flag.jpg",
+        "country_name": "Brazil",
+        "options": [
+            "Argentina",
+            "Chile",
+            "Peru",
+            "Brazil"
+        ]
+    },
+    {
+        "id": 164,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bs-flag.jpg",
+        "country_name": "Bahamas",
+        "options": [
+            "Antigua and Barbuda",
+            "Bahamas",
+            "Barbados",
+            "Jamaica"
+        ]
+    },
+    {
+        "id": 165,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bt-flag.jpg",
+        "country_name": "Bhutan",
+        "options": [
+            "India",
+            "Nepal",
+            "Bhutan",
+            "Bangladesh"
+        ]
+    },
+    {
+        "id": 166,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bw-flag.jpg",
+        "country_name": "Botswana",
+        "options": [
+            "Zimbabwe",
+            "Namibia",
+            "South Africa",
+            "Botswana"
+        ]
+    },
+    {
+        "id": 167,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/by-flag.jpg",
+        "country_name": "Belarus",
+        "options": [
+            "Poland",
+            "Ukraine",
+            "Russia",
+            "Belarus"
+        ]
+    },
+    {
+        "id": 168,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/bz-flag.jpg",
+        "country_name": "Belize",
+        "options": [
+            "Costa Rica",
+            "Belize",
+            "Guatemala",
+            "Honduras"
+        ]
+    },
+    {
+        "id": 169,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ca-flag.jpg",
+        "country_name": "Canada",
+        "options": [
+            "Mexico",
+            "Canada",
+            "Australia",
+            "United States"
+        ]
+    },
+    {
+        "id": 170,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cd-flag.jpg",
+        "country_name": "Democratic Republic of the Congo",
+        "options": [
+            "Rwanda",
+            "Democratic Republic of the Congo",
+            "Angola",
+            "Republic of the Congo"
+        ]
+    },
+    {
+        "id": 171,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cf-flag.jpg",
+        "country_name": "Central African Republic",
+        "options": [
+            "Chad",
+            "Cameroon",
+            "Congo",
+            "Central African Republic"
+        ]
+    },
+    {
+        "id": 172,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cg-flag.jpg",
+        "country_name": "Republic of the Congo",
+        "options": [
+            "Gabon",
+            "Republic of the Congo",
+            "Cameroon",
+            "Democratic Republic of the Congo"
+        ]
+    },
+    {
+        "id": 173,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ch-flag.jpg",
+        "country_name": "Switzerland",
+        "options": [
+            "Austria",
+            "Germany",
+            "Italy",
+            "Switzerland"
+        ]
+    },
+    {
+        "id": 174,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cl-flag.jpg",
+        "country_name": "Chile",
+        "options": [
+            "Chile",
+            "Argentina",
+            "Peru",
+            "Bolivia"
+        ]
+    },
+    {
+        "id": 175,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cm-flag.jpg",
+        "country_name": "Cameroon",
+        "options": [
+            "Gabon",
+            "Cameroon",
+            "Nigeria",
+            "Central African Republic"
+        ]
+    },
+    {
+        "id": 176,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cn-flag.jpg",
+        "country_name": "China",
+        "options": [
+            "India",
+            "Japan",
+            "China",
+            "Mongolia"
+        ]
+    },
+    {
+        "id": 177,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/co-flag.jpg",
+        "country_name": "Colombia",
+        "options": [
+            "Venezuela",
+            "Colombia",
+            "Ecuador",
+            "Peru"
+        ]
+    },
+    {
+        "id": 178,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cr-flag.jpg",
+        "country_name": "Costa Rica",
+        "options": [
+            "Panama",
+            "Costa Rica",
+            "Honduras",
+            "Nicaragua"
+        ]
+    },
+    {
+        "id": 179,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cu-flag.jpg",
+        "country_name": "Cuba",
+        "options": [
+            "Jamaica",
+            "Cuba",
+            "Haiti",
+            "Dominican Republic"
+        ]
+    },
+    {
+        "id": 180,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cv-flag.jpg",
+        "country_name": "Cabo Verde",
+        "options": [
+            "Cabo Verde",
+            "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+            "Cape Verde",
+            "Gambia"
+        ]
+    },
+    {
+        "id": 181,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cy-flag.jpg",
+        "country_name": "Cyprus",
+        "options": [
+            "Greece",
+            "Turkey",
+            "Cyprus",
+            "Malta"
+        ]
+    },
+    {
+        "id": 182,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/cz-flag.jpg",
+        "country_name": "Czech Republic",
+        "options": [
+            "Austria",
+            "Slovakia",
+            "Hungary",
+            "Czech Republic"
+        ]
+    },
+    {
+        "id": 183,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/de-flag.jpg",
+        "country_name": "Germany",
+        "options": [
+            "Austria",
+            "Germany",
+            "Netherlands",
+            "Switzerland"
+        ]
+    },
+    {
+        "id": 184,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dj-flag.jpg",
+        "country_name": "Djibouti",
+        "options": [
+            "Djibouti",
+            "Eritrea",
+            "Sudan",
+            "Somalia"
+        ]
+    },
+    {
+        "id": 185,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dk-flag.jpg",
+        "country_name": "Denmark",
+        "options": [
+            "Sweden",
+            "Denmark",
+            "Norway",
+            "Finland"
+        ]
+    },
+    {
+        "id": 186,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dm-flag.jpg",
+        "country_name": "Dominica",
+        "options": [
+            "Grenada",
+            "Saint Lucia",
+            "Dominica",
+            "Dominican Republic"
+        ]
+    },
+    {
+        "id": 187,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/do-flag.jpg",
+        "country_name": "Dominican Republic",
+        "options": [
+            "Cuba",
+            "Dominican Republic",
+            "Puerto Rico",
+            "Haiti"
+        ]
+    },
+    {
+        "id": 188,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/dz-flag.jpg",
+        "country_name": "Algeria",
+        "options": [
+            "Morocco",
+            "Libya",
+            "Tunisia",
+            "Algeria"
+        ]
+    },
+    {
+        "id": 189,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ec-flag.jpg",
+        "country_name": "Ecuador",
+        "options": [
+            "Peru",
+            "Chile",
+            "Ecuador",
+            "Colombia"
+        ]
+    },
+    {
+        "id": 190,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ee-flag.jpg",
+        "country_name": "Estonia",
+        "options": [
+            "Lithuania",
+            "Finland",
+            "Estonia",
+            "Latvia"
+        ]
+    },
+    {
+        "id": 191,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/eg-flag.jpg",
+        "country_name": "Egypt",
+        "options": [
+            "Egypt",
+            "Sudan",
+            "Jordan",
+            "Libya"
+        ]
+    },
+    {
+        "id": 192,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/eh-flag.jpg",
+        "country_name": "Western Sahara",
+        "options": [
+            "Morocco",
+            "Algeria",
+            "Western Sahara",
+            "Mauritania"
+        ]
+    },
+    {
+        "id": 193,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/er-flag.jpg",
+        "country_name": "Eritrea",
+        "options": [
+            "Eritrea",
+            "Djibouti",
+            "Ethiopia",
+            "Sudan"
+        ]
+    },
+    {
+        "id": 194,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/es-flag.jpg",
+        "country_name": "Spain",
+        "options": [
+            "Spain",
+            "Italy",
+            "Portugal",
+            "France"
+        ]
+    },
+    {
+        "id": 195,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/et-flag.jpg",
+        "country_name": "Ethiopia",
+        "options": [
+            "Ethiopia",
+            "Sudan",
+            "Somalia",
+            "Kenya"
+        ]
+    },
+    {
+        "id": 196,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/fi-flag.jpg",
+        "country_name": "Finland",
+        "options": [
+            "Norway",
+            "Finland",
+            "Denmark",
+            "Sweden"
+        ]
+    },
+    {
+        "id": 197,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/fj-flag.jpg",
+        "country_name": "Fiji",
+        "options": [
+            "Samoa",
+            "Fiji",
+            "Vanuatu",
+            "Tonga"
+        ]
+    },
+    {
+        "id": 198,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/fk-flag.jpg",
+        "country_name": "Falkland Islands",
+        "options": [
+            "Falkland Islands",
+            "Saint Helena",
+            "Tristan da Cunha",
+            "South Georgia"
+        ]
+    },
+    {
+        "id": 199,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/fr-flag.jpg",
+        "country_name": "France",
+        "options": [
+            "France",
+            "Germany",
+            "Spain",
+            "Italy"
+        ]
+    },
+    {
+        "id": 200,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ga-flag.jpg",
+        "country_name": "Gabon",
+        "options": [
+            "Gabon",
+            "Cameroon",
+            "Republic of the Congo",
+            "Equatorial Guinea"
+        ]
+    },
+    {
+        "id": 201,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gb-flag.jpg",
+        "country_name": "United Kingdom",
+        "options": [
+            "Australia",
+            "Canada",
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    {
+        "id": 202,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gd-flag.jpg",
+        "country_name": "Grenada",
+        "options": [
+            "Grenada",
+            "Barbados",
+            "Saint Lucia",
+            "Dominica"
+        ]
+    },
+    {
+        "id": 203,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ge-flag.jpg",
+        "country_name": "Georgia",
+        "options": [
+            "Turkey",
+            "Armenia",
+            "Georgia",
+            "Azerbaijan"
+        ]
+    },
+    {
+        "id": 204,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gf-flag.jpg",
+        "country_name": "French Guiana",
+        "options": [
+            "Brazil",
+            "Suriname",
+            "Guyana",
+            "French Guiana"
+        ]
+    },
+    {
+        "id": 205,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gg-flag.jpg",
+        "country_name": "Guernsey",
+        "options": [
+            "Isle of Man",
+            "Sark",
+            "Guernsey",
+            "Jersey"
+        ]
+    },
+    {
+        "id": 206,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gh-flag.jpg",
+        "country_name": "Ghana",
+        "options": [
+            "Nigeria",
+            "Ivory Coast",
+            "Togo",
+            "Ghana"
+        ]
+    },
+    {
+        "id": 207,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gi-flag.jpg",
+        "country_name": "Gibraltar",
+        "options": [
+            "Gibraltar",
+            "Sicily",
+            "Gozo",
+            "Malta"
+        ]
+    },
+    {
+        "id": 208,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gl-flag.jpg",
+        "country_name": "Greenland",
+        "options": [
+            "Canada",
+            "Iceland",
+            "Greenland",
+            "Norway"
+        ]
+    },
+    {
+        "id": 209,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gm-flag.jpg",
+        "country_name": "Gambia",
+        "options": [
+            "Gambia",
+            "Mali",
+            "Guinea",
+            "Senegal"
+        ]
+    },
+    {
+        "id": 210,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gn-flag.jpg",
+        "country_name": "Guinea",
+        "options": [
+            "Guinea-Bissau",
+            "Liberia",
+            "Sierra Leone",
+            "Guinea"
+        ]
+    },
+    {
+        "id": 211,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gq-flag.jpg",
+        "country_name": "Equatorial Guinea",
+        "options": [
+            "Cameroon",
+            "Nigeria",
+            "Gabon",
+            "Equatorial Guinea"
+        ]
+    },
+    {
+        "id": 212,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gr-flag.jpg",
+        "country_name": "Greece",
+        "options": [
+            "Cyprus",
+            "Greece",
+            "Italy",
+            "Turkey"
+        ]
+    },
+    {
+        "id": 213,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gt-flag.jpg",
+        "country_name": "Guatemala",
+        "options": [
+            "Guatemala",
+            "El Salvador",
+            "Nicaragua",
+            "Honduras"
+        ]
+    },
+    {
+        "id": 214,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gw-flag.jpg",
+        "country_name": "Guinea-Bissau",
+        "options": [
+            "Guinea",
+            "Senegal",
+            "Cape Verde",
+            "Guinea-Bissau"
+        ]
+    },
+    {
+        "id": 215,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/gy-flag.jpg",
+        "country_name": "Guyana",
+        "options": [
+            "Guyana",
+            "Brazil",
+            "Colombia",
+            "Suriname"
+        ]
+    },
+    {
+        "id": 216,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hk-flag.jpg",
+        "country_name": "Hong Kong",
+        "options": [
+            "Hong Kong",
+            "Macau",
+            "Taiwan",
+            "Singapore"
+        ]
+    },
+    {
+        "id": 217,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hm-flag.jpg",
+        "country_name": "Heard Island and McDonald Islands",
+        "options": [
+            "Cocos (Keeling) Islands",
+            "Norfolk Island",
+            "Christmas Island",
+            "Heard Island and McDonald Islands"
+        ]
+    },
+    {
+        "id": 218,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hn-flag.jpg",
+        "country_name": "Honduras",
+        "options": [
+            "Guatemala",
+            "Honduras",
+            "El Salvador",
+            "Nicaragua"
+        ]
+    },
+    {
+        "id": 219,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hr-flag.jpg",
+        "country_name": "Croatia",
+        "options": [
+            "Montenegro",
+            "Serbia",
+            "Croatia",
+            "Bosnia and Herzegovina"
+        ]
+    },
+    {
+        "id": 220,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ht-flag.jpg",
+        "country_name": "Haiti",
+        "options": [
+            "Cuba",
+            "Dominican Republic",
+            "Jamaica",
+            "Haiti"
+        ]
+    },
+    {
+        "id": 221,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/hu-flag.jpg",
+        "country_name": "Hungary",
+        "options": [
+            "Austria",
+            "Hungary",
+            "Slovakia",
+            "Czech Republic"
+        ]
+    },
+    {
+        "id": 222,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/id-flag.jpg",
+        "country_name": "Indonesia",
+        "options": [
+            "Thailand",
+            "Malaysia",
+            "Indonesia",
+            "Philippines"
+        ]
+    },
+    {
+        "id": 223,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ie-flag.jpg",
+        "country_name": "Ireland",
+        "options": [
+            "Scotland",
+            "Wales",
+            "Ireland",
+            "Northern Ireland"
+        ]
+    },
+    {
+        "id": 224,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/il-flag.jpg",
+        "country_name": "Israel",
+        "options": [
+            "Palestine",
+            "Egypt",
+            "Jordan",
+            "Israel"
+        ]
+    },
+    {
+        "id": 225,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/im-flag.jpg",
+        "country_name": "Isle of Man",
+        "options": [
+            "Isle of Man",
+            "Jersey",
+            "Guernsey",
+            "Sark"
+        ]
+    },
+    {
+        "id": 226,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/in-flag.jpg",
+        "country_name": "India",
+        "options": [
+            "Nepal",
+            "India",
+            "Bangladesh",
+            "Pakistan"
+        ]
+    },
+    {
+        "id": 227,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/io-flag.jpg",
+        "country_name": "British Indian Ocean Territory",
+        "options": [
+            "Mauritius",
+            "Seychelles",
+            "Maldives",
+            "British Indian Ocean Territory"
+        ]
+    },
+    {
+        "id": 228,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/iq-flag.jpg",
+        "country_name": "Iraq",
+        "options": [
+            "Iran",
+            "Iraq",
+            "Syria",
+            "Jordan"
+        ]
+    },
+    {
+        "id": 229,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ir-flag.jpg",
+        "country_name": "Iran",
+        "options": [
+            "Iraq",
+            "Afghanistan",
+            "Iran",
+            "Turkey"
+        ]
+    },
+    {
+        "id": 230,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/it-flag.jpg",
+        "country_name": "Italy",
+        "options": [
+            "Italy",
+            "Spain",
+            "France",
+            "Greece"
+        ]
+    },
+    {
+        "id": 231,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/jm-flag.jpg",
+        "country_name": "Jamaica",
+        "options": [
+            "Jamaica",
+            "Barbados",
+            "Bahamas",
+            "Trinidad and Tobago"
+        ]
+    },
+    {
+        "id": 232,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/jo-flag.jpg",
+        "country_name": "Jordan",
+        "options": [
+            "Saudi Arabia",
+            "Syria",
+            "Iraq",
+            "Jordan"
+        ]
+    },
+    {
+        "id": 233,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ke-flag.jpg",
+        "country_name": "Kenya",
+        "options": [
+            "Rwanda",
+            "Uganda",
+            "Kenya",
+            "Tanzania"
+        ]
+    },
+    {
+        "id": 234,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kg-flag.jpg",
+        "country_name": "Kyrgyzstan",
+        "options": [
+            "Tajikistan",
+            "Uzbekistan",
+            "Kazakhstan",
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "id": 235,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kh-flag.jpg",
+        "country_name": "Cambodia",
+        "options": [
+            "Vietnam",
+            "Thailand",
+            "Laos",
+            "Cambodia"
+        ]
+    },
+    {
+        "id": 236,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ki-flag.jpg",
+        "country_name": "Kiribati",
+        "options": [
+            "Tuvalu",
+            "Kiribati",
+            "Marshall Islands",
+            "Nauru"
+        ]
+    },
+    {
+        "id": 237,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/km-flag.jpg",
+        "country_name": "Comoros",
+        "options": [
+            "Comoros",
+            "Madagascar",
+            "Mauritius",
+            "Seychelles"
+        ]
+    },
+    {
+        "id": 238,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kn-flag.jpg",
+        "country_name": "Saint Kitts and Nevis",
+        "options": [
+            "Saint Lucia",
+            "Saint Kitts and Nevis",
+            "Antigua and Barbuda",
+            "Dominica"
+        ]
+    },
+    {
+        "id": 239,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kp-flag.jpg",
+        "country_name": "North Korea",
+        "options": [
+            "South Korea",
+            "North Korea",
+            "Russia",
+            "China"
+        ]
+    },
+    {
+        "id": 240,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kr-flag.jpg",
+        "country_name": "South Korea",
+        "options": [
+            "Taiwan",
+            "North Korea",
+            "South Korea",
+            "Japan"
+        ]
+    },
+    {
+        "id": 241,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/kz-flag.jpg",
+        "country_name": "Kazakhstan",
+        "options": [
+            "Kyrgyzstan",
+            "Kazakhstan",
+            "Uzbekistan",
+            "Turkmenistan"
+        ]
+    },
+    {
+        "id": 242,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/la-flag.jpg",
+        "country_name": "Laos",
+        "options": [
+            "Cambodia",
+            "Laos",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+    {
+        "id": 243,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lb-flag.jpg",
+        "country_name": "Lebanon",
+        "options": [
+            "Lebanon",
+            "Jordan",
+            "Syria",
+            "Iraq"
+        ]
+    },
+    {
+        "id": 244,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lk-flag.jpg",
+        "country_name": "Sri Lanka",
+        "options": [
+            "Sri Lanka",
+            "Bangladesh",
+            "India",
+            "Maldives"
+        ]
+    },
+    {
+        "id": 245,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/lr-flag.jpg",
+        "country_name": "Liberia",
+        "options": [
+            "Ghana",
+            "Nigeria",
+            "Sierra Leone",
+            "Liberia"
+        ]
+    },
+    {
+        "id": 246,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ly-flag.jpg",
+        "country_name": "Libya",
+        "options": [
+            "Egypt",
+            "Tunisia",
+            "Libya",
+            "Algeria"
+        ]
+    },
+    {
+        "id": 247,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ma-flag.jpg",
+        "country_name": "Morocco",
+        "options": [
+            "Morocco",
+            "Algeria",
+            "Libya",
+            "Tunisia"
+        ]
+    },
+    {
+        "id": 248,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/md-flag.jpg",
+        "country_name": "Moldova",
+        "options": [
+            "Belarus",
+            "Moldova",
+            "Ukraine",
+            "Romania"
+        ]
+    },
+    {
+        "id": 249,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/me-flag.jpg",
+        "country_name": "Montenegro",
+        "options": [
+            "Serbia",
+            "Montenegro",
+            "Croatia",
+            "Bosnia and Herzegovina"
+        ]
+    },
+    {
+        "id": 250,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mk-flag.jpg",
+        "country_name": "North Macedonia",
+        "options": [
+            "Bulgaria",
+            "Serbia",
+            "Greece",
+            "North Macedonia"
+        ]
+    },
+    {
+        "id": 251,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ml-flag.jpg",
+        "country_name": "Mali",
+        "options": [
+            "Mali",
+            "Chad",
+            "Burkina Faso",
+            "Niger"
+        ]
+    },
+    {
+        "id": 252,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mm-flag.jpg",
+        "country_name": "Myanmar",
+        "options": [
+            "Bangladesh",
+            "Thailand",
+            "Laos",
+            "Myanmar"
+        ]
+    },
+    {
+        "id": 253,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mn-flag.jpg",
+        "country_name": "Mongolia",
+        "options": [
+            "Mongolia",
+            "Russia",
+            "China",
+            "Kazakhstan"
+        ]
+    },
+    {
+        "id": 254,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mr-flag.jpg",
+        "country_name": "Mauritania",
+        "options": [
+            "Mauritania",
+            "Senegal",
+            "Mali",
+            "Morocco"
+        ]
+    },
+    {
+        "id": 255,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ms-flag.jpg",
+        "country_name": "Montserrat",
+        "options": [
+            "Saint Kitts and Nevis",
+            "Montserrat",
+            "Antigua and Barbuda",
+            "British Virgin Islands"
+        ]
+    },
+    {
+        "id": 256,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mt-flag.jpg",
+        "country_name": "Malta",
+        "options": [
+            "Italy",
+            "Spain",
+            "Malta",
+            "Greece"
+        ]
+    },
+    {
+        "id": 257,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mu-flag.jpg",
+        "country_name": "Mauritius",
+        "options": [
+            "R\u00e9union",
+            "Mauritius",
+            "Seychelles",
+            "Madagascar"
+        ]
+    },
+    {
+        "id": 258,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mx-flag.jpg",
+        "country_name": "Mexico",
+        "options": [
+            "Mexico",
+            "Spain",
+            "Colombia",
+            "Peru"
+        ]
+    },
+    {
+        "id": 259,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/my-flag.jpg",
+        "country_name": "Malaysia",
+        "options": [
+            "Malaysia",
+            "Indonesia",
+            "Singapore",
+            "Brunei"
+        ]
+    },
+    {
+        "id": 260,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/mz-flag.jpg",
+        "country_name": "Mozambique",
+        "options": [
+            "South Africa",
+            "Zambia",
+            "Mozambique",
+            "Tanzania"
+        ]
+    },
+    {
+        "id": 261,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/na-flag.jpg",
+        "country_name": "Namibia",
+        "options": [
+            "South Africa",
+            "Botswana",
+            "Angola",
+            "Namibia"
+        ]
+    },
+    {
+        "id": 262,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/nc-flag.jpg",
+        "country_name": "New Caledonia",
+        "options": [
+            "Fiji",
+            "Vanuatu",
+            "New Caledonia",
+            "Samoa"
+        ]
+    },
+    {
+        "id": 263,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ne-flag.jpg",
+        "country_name": "Niger",
+        "options": [
+            "Niger",
+            "Nigeria",
+            "Chad",
+            "Mali"
+        ]
+    },
+    {
+        "id": 264,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/nl-flag.jpg",
+        "country_name": "Netherlands",
+        "options": [
+            "Luxembourg",
+            "Germany",
+            "Belgium",
+            "Netherlands"
+        ]
+    },
+    {
+        "id": 265,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/no-flag.jpg",
+        "country_name": "Norway",
+        "options": [
+            "Norway",
+            "Sweden",
+            "Denmark",
+            "Finland"
+        ]
+    },
+    {
+        "id": 266,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/np-flag.jpg",
+        "country_name": "Nepal",
+        "options": [
+            "Bhutan",
+            "Nepal",
+            "Tibet",
+            "India"
+        ]
+    },
+    {
+        "id": 267,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/nz-flag.jpg",
+        "country_name": "New Zealand",
+        "options": [
+            "New Zealand",
+            "Fiji",
+            "Australia",
+            "Samoa"
+        ]
+    },
+    {
+        "id": 268,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/om-flag.jpg",
+        "country_name": "Oman",
+        "options": [
+            "Kuwait",
+            "Oman",
+            "Saudi Arabia",
+            "UAE"
+        ]
+    },
+    {
+        "id": 269,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pa-flag.jpg",
+        "country_name": "Panama",
+        "options": [
+            "Panama",
+            "Nicaragua",
+            "Costa Rica",
+            "Colombia"
+        ]
+    },
+    {
+        "id": 270,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pe-flag.jpg",
+        "country_name": "Peru",
+        "options": [
+            "Brazil",
+            "Chile",
+            "Argentina",
+            "Peru"
+        ]
+    },
+    {
+        "id": 271,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ph-flag.jpg",
+        "country_name": "Philippines",
+        "options": [
+            "Malaysia",
+            "Thailand",
+            "Indonesia",
+            "Philippines"
+        ]
+    },
+    {
+        "id": 272,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pk-flag.jpg",
+        "country_name": "Pakistan",
+        "options": [
+            "Pakistan",
+            "Afghanistan",
+            "Iran",
+            "India"
+        ]
+    },
+    {
+        "id": 273,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pl-flag.jpg",
+        "country_name": "Poland",
+        "options": [
+            "Germany",
+            "Czech Republic",
+            "Poland",
+            "Slovakia"
+        ]
+    },
+    {
+        "id": 274,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/pt-flag.jpg",
+        "country_name": "Portugal",
+        "options": [
+            "Portugal",
+            "Spain",
+            "Italy",
+            "France"
+        ]
+    },
+    {
+        "id": 275,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/qa-flag.jpg",
+        "country_name": "Qatar",
+        "options": [
+            "Qatar",
+            "Kuwait",
+            "UAE",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "id": 276,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/re-flag.jpg",
+        "country_name": "R\u00e9union",
+        "options": [
+            "Madagascar",
+            "Mauritius",
+            "Seychelles",
+            "R\u00e9union"
+        ]
+    },
+    {
+        "id": 277,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ro-flag.jpg",
+        "country_name": "Romania",
+        "options": [
+            "Hungary",
+            "Moldova",
+            "Romania",
+            "Ukraine"
+        ]
+    },
+    {
+        "id": 278,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/rs-flag.jpg",
+        "country_name": "Serbia",
+        "options": [
+            "Bosnia and Herzegovina",
+            "Montenegro",
+            "Croatia",
+            "Serbia"
+        ]
+    },
+    {
+        "id": 279,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sg-flag.jpg",
+        "country_name": "Singapore",
+        "options": [
+            "Singapore",
+            "Thailand",
+            "Malaysia",
+            "Brunei"
+        ]
+    },
+    {
+        "id": 280,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sk-flag.jpg",
+        "country_name": "Slovakia",
+        "options": [
+            "Poland",
+            "Slovakia",
+            "Hungary",
+            "Czech Republic"
+        ]
+    },
+    {
+        "id": 281,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sl-flag.jpg",
+        "country_name": "Sierra Leone",
+        "options": [
+            "Ghana",
+            "Nigeria",
+            "Sierra Leone",
+            "Liberia"
+        ]
+    },
+    {
+        "id": 282,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sv-flag.jpg",
+        "country_name": "El Salvador",
+        "options": [
+            "Honduras",
+            "Costa Rica",
+            "Nicaragua",
+            "El Salvador"
+        ]
+    },
+    {
+        "id": 283,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/sy-flag.jpg",
+        "country_name": "Syria",
+        "options": [
+            "Iraq",
+            "Syria",
+            "Jordan",
+            "Lebanon"
+        ]
+    },
+    {
+        "id": 284,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tg-flag.jpg",
+        "country_name": "Togo",
+        "options": [
+            "Benin",
+            "Ghana",
+            "Togo",
+            "Nigeria"
+        ]
+    },
+    {
+        "id": 285,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tj-flag.jpg",
+        "country_name": "Tajikistan",
+        "options": [
+            "Tajikistan",
+            "Uzbekistan",
+            "Kyrgyzstan",
+            "Turkmenistan"
+        ]
+    },
+    {
+        "id": 286,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tk-flag.jpg",
+        "country_name": "Tokelau",
+        "options": [
+            "Tokelau",
+            "Tonga",
+            "Fiji",
+            "Samoa"
+        ]
+    },
+    {
+        "id": 287,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tl-flag.jpg",
+        "country_name": "Timor-Leste",
+        "options": [
+            "Australia",
+            "Papua New Guinea",
+            "Timor-Leste",
+            "Indonesia"
+        ]
+    },
+    {
+        "id": 288,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tn-flag.jpg",
+        "country_name": "Tunisia",
+        "options": [
+            "Libya",
+            "Tunisia",
+            "Morocco",
+            "Algeria"
+        ]
+    },
+    {
+        "id": 289,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/to-flag.jpg",
+        "country_name": "Tonga",
+        "options": [
+            "Tonga",
+            "Samoa",
+            "Fiji",
+            "Cook Islands"
+        ]
+    },
+    {
+        "id": 290,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tr-flag.jpg",
+        "country_name": "Turkey",
+        "options": [
+            "Armenia",
+            "Greece",
+            "Turkey",
+            "Cyprus"
+        ]
+    },
+    {
+        "id": 291,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tv-flag.jpg",
+        "country_name": "Tuvalu",
+        "options": [
+            "Tonga",
+            "Samoa",
+            "Tuvalu",
+            "Kiribati"
+        ]
+    },
+    {
+        "id": 292,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/tz-flag.jpg",
+        "country_name": "Tanzania",
+        "options": [
+            "Rwanda",
+            "Kenya",
+            "Uganda",
+            "Tanzania"
+        ]
+    },
+    {
+        "id": 293,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ua-flag.jpg",
+        "country_name": "Ukraine",
+        "options": [
+            "Russia",
+            "Ukraine",
+            "Hungary",
+            "Poland"
+        ]
+    },
+    {
+        "id": 294,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/ug-flag.jpg",
+        "country_name": "Uganda",
+        "options": [
+            "Kenya",
+            "Tanzania",
+            "Rwanda",
+            "Uganda"
+        ]
+    },
+    {
+        "id": 295,
+        "img": "https://www.worldatlas.com/r/w236/img/flag/um-flag.jpg",
+        "country_name": "United States Minor Outlying Islands",
+        "options": [
+            "Puerto Rico",
+            "United States Minor Outlying Islands",
+            "American Samoa",
+            "Guam"
+        ]
+    }
+]
