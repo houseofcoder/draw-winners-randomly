@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japan Live Cams</title>
+    <meta name="description"
+        content="Explore live camera feeds from various locations in Japan. Select a location and watch live streams of beautiful sceneries.">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <style>
+        /* Body styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            /* Light background for better contrast */
+        }
+
+        /* Navbar styles */
+        .navbar {
+            background-color: #ffffff;
+            /* White background for navbar */
+            border-bottom: 1px solid #e0e0e0;
+            /* Light grey border */
+        }
+
+        /* Heading styles */
+        h2 {
+            font-size: 2rem;
+            font-weight: bold;
+            /* Make the heading bold */
+            color: #333;
+            /* Dark color for headings */
+        }
+
+        /* Loader styles */
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 4px solid #ff0000;
+            /* YouTube red color */
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Hide loader by default */
+        .loading {
+            display: none;
+        }
+
+        /* Dropdown search styles */
+        .select2-container .select2-selection--single {
+            height: 38px;
+            border: 1px solid #ced4da;
+            border-radius: .25rem;
+            padding: .375rem .75rem;
+            font-size: 1rem;
+            display: flex;
+            align-items: center;
+        }
+
+        /* Card styles */
+        .card {
+            transition: transform 0.2s;
+            border-radius: 8px;
+            /* Rounded corners */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            /* Subtle shadow for depth */
+        }
+
+        .card:hover {
+            transform: scale(1.02);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            /* More pronounced shadow on hover */
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            h2 {
+                font-size: 1.5rem;
+                /* Smaller font size for tablets */
+            }
+        }
+
+        @media (max-width: 576px) {
+            body {
+                font-size: 0.875rem;
+                /* Smaller font size for mobile */
+            }
+
+            h2 {
+                font-size: 1.25rem;
+                /* Even smaller font size for mobile */
+            }
+
+            .loader {
+                width: 20px;
+                /* Smaller loader for mobile */
+                height: 20px;
+            }
+        }
+
+        /* Card body title style */
+        .card-title {
+            font-size: 1.1rem;
+            /* Slightly larger title */
+            color: #333;
+            /* Dark color for card titles */
+            font-weight: bold;
+            /* Bold titles */
+        }
+
+        /* Button styles */
+        .btn-primary {
+            background-color: #ff0000;
+            /* YouTube red */
+            border: none;
+        }
+
+        .btn-primary:hover {
+            background-color: #e60000;
+            /* Darker red on hover */
+        }
+
+        /* Add some padding to video results */
+        #videoResults {
+            padding-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">Japan Live Cams</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">Home</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Container -->
+    <!-- Container -->
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Select a Location</h2>
+                <select id="locationDropdown" class="form-select">
+                    <option value="">-- Select Location --</option>
+                    <!-- Dynamic options will be inserted here -->
+                </select>
+                <div id="countMessage" class="mt-3"></div> <!-- Count message will be displayed here -->
+            </div>
+        </div>
+
+        <div class="row mt-4" id="videoResults">
+            <!-- Loader to show while thumbnails are loading -->
+            <div id="loader" class="loading loader"></div>
+            <!-- Video results will be displayed here -->
+        </div>
+    </div>
+
+    <!-- JavaScript and Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+    <script>
+        // Initialize the Select2 plugin for search in dropdown
+        $(document).ready(function () {
+            $('#locationDropdown').select2({
+                placeholder: "-- Select Location --",
+                allowClear: true
+            });
+
+            // Check localStorage for the saved location
+            const savedLocation = localStorage.getItem('selectedLocation');
+            if (savedLocation) {
+                $('#locationDropdown').val(savedLocation).trigger('change'); // Set the saved location
+            }
+        });
+
+        // Function to populate the location dropdown
+        function populateDropdown(videoData) {
+            const locations = [...new Set(videoData.map(video => video.Location))];
+            const dropdown = $('#locationDropdown');
+
+            locations.forEach(location => {
+                dropdown.append(`<option value="${location}">${location}</option>`);
+            });
+
+            // Reinitialize select2 after dynamic data insertion
+            $('#locationDropdown').select2();
+        }
+
+        // Function to display video results
+        function displayVideos(videoData, location) {
+            const resultsContainer = $('#videoResults');
+            resultsContainer.empty(); // Clear any previous results
+
+            const filteredVideos = videoData.filter(video => video.Location === location);
+
+            // Create a message element to display the count of videos found
+            const countMessage = $('#countMessage');
+            if (filteredVideos.length === 0) {
+                resultsContainer.append(`<p>No videos found for this location.</p>`);
+                countMessage.text(''); // Clear count message if no videos are found
+                hideLoader(); // Hide loader if no videos are found
+            } else {
+                countMessage.text(`Found ${filteredVideos.length} video(s)`); // Update the count message
+                showLoader(); // Show loader while videos are being loaded
+
+                let loadedCount = 0; // Counter for loaded images
+
+                filteredVideos.forEach(video => {
+                    const videoId = video.Link.split('/').pop();
+                    const thumbnail = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+
+                    const cardHtml = `
+            <div class="col-md-4 col-sm-6">
+                <div class="card mb-4">
+                    <div class="thumbnail-container position-relative">
+                        <img src="${thumbnail}" class="card-img-top" alt="${video.Description}" onload="imageLoaded()" onerror="imageError()">
+                        <div class="loader-overlay"></div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">${video.Description}</h5>
+                        <a href="video.html?videoId=${videoId}" class="btn btn-primary">Watch Video</a>
+                    </div>
+                </div>
+            </div>
+            `;
+
+                    resultsContainer.append(cardHtml);
+                });
+
+                // Check if all images have loaded after adding them to the DOM
+                resultsContainer.find('img').each(function () {
+                    if (this.complete) {
+                        loadedCount++;
+                    }
+                });
+
+                if (loadedCount === filteredVideos.length) {
+                    hideLoader(); // Hide loader if all images are already loaded
+                }
+            }
+        }
+
+
+        // Show the loader
+        function showLoader() {
+            $('#loader').show();
+        }
+
+        // Hide the loader
+        function hideLoader() {
+            $('#loader').hide();
+        }
+
+        // Function to call when an image has loaded
+        function imageLoaded() {
+            const images = $('#videoResults img'); // Select all images
+            let loadedCount = 0;
+
+            images.each(function () {
+                if (this.complete) {
+                    loadedCount++;
+                }
+            });
+
+            // Check if all images are loaded
+            if (loadedCount === images.length) {
+                hideLoader(); // Hide loader if all images are loaded
+            }
+        }
+
+        function imageError() {
+            const images = $('#videoResults img'); // Select all images
+            let loadedCount = 0;
+
+            images.each(function () {
+                if (this.complete) {
+                    loadedCount++;
+                }
+            });
+
+            // Check if all images are loaded or errored
+            if (loadedCount === images.length) {
+                hideLoader(); // Hide loader if all images are loaded or errored
+            }
+        }
+
+        // Load JSON data from file
+        fetch('output2.json')
+            .then(response => response.json())
+            .then(videoData => {
+                // Populate the dropdown with locations
+                populateDropdown(videoData);
+
+                // Event listener for dropdown selection
+                $('#locationDropdown').change(function () {
+                    const selectedLocation = $(this).val();
+                    displayVideos(videoData, selectedLocation);
+                    localStorage.setItem('selectedLocation', selectedLocation); // Store the selected location
+                });
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+
+    </script>
+
+</body>
+
+</html>
