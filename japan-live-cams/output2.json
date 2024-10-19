@@ -46,27 +46,11 @@
         "Tags": []
     },
     {
-        "Link": "https://www.youtube.com/live/fdkVkWU99DI",
-        "Description": "Odaiba, Tokyo",
-        "Location": "Tokyo",
-        "Tags": [
-            "odaiba"
-        ]
-    },
-    {
         "Link": "https://www.youtube.com/live/AKzMElQf0KI",
         "Description": "Shimbashi, Tokyo 東京・汐留から見た新橋、虎ノ門、麻布台、東京タワー",
         "Location": "Tokyo",
         "Tags": [
             "shimbashi"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/j9YCPzJ9bnM",
-        "Description": "Shibuya CROSSING/渋谷スクランブル交差点 Shibuya SKY からの景色",
-        "Location": "Tokyo",
-        "Tags": [
-            "shibuya"
         ]
     },
     {
@@ -99,14 +83,6 @@
         "Location": "Tokyo",
         "Tags": [
             "tokyo tower"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/Vv3Sbr1lAMg",
-        "Description": "Shibuya Scramble Crossing 渋谷スクランブル交差点",
-        "Location": "Tokyo",
-        "Tags": [
-            "shibuya"
         ]
     },
     {
@@ -171,22 +147,6 @@
         ]
     },
     {
-        "Link": "https://www.youtube.com/live/x5LxRBgXSKs",
-        "Description": "Shibuya Scramble Crossing - Tokyo 渋谷・スクランブル交差点 ライブカメラ",
-        "Location": "Tokyo",
-        "Tags": [
-            "shibuya"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/ZXjxKu-y6e4",
-        "Description": "Ikebukuro, Tokyo サンシャイン60通りライブカメラ",
-        "Location": "Tokyo",
-        "Tags": [
-            "ikebukuro"
-        ]
-    },
-    {
         "Link": "https://www.youtube.com/live/PSEbeTZIdSM",
         "Description": "Kachidoki sunset view Tokyo東京 ライブカメラ",
         "Location": "Tokyo",
@@ -201,14 +161,6 @@
     {
         "Link": "https://www.youtube.com/live/A0FCKcTuRHo",
         "Description": "HANEDA,Tokyo International Airport Terminal2",
-        "Location": "Tokyo",
-        "Tags": [
-            "airport"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/x_fHq3B_UP4",
-        "Description": "HANEDA,Tokyo International Airport 羽田空港",
         "Location": "Tokyo",
         "Tags": [
             "airport"
@@ -247,20 +199,8 @@
         "Tags": []
     },
     {
-        "Link": "https://www.youtube.com/live/n5QNAjO3J7k",
-        "Description": "Live camera Akihabara Tokyo",
-        "Location": "Tokyo",
-        "Tags": []
-    },
-    {
         "Link": "https://www.youtube.com/live/kmo17mb5LvI",
         "Description": "Shiodome Railway Tracks, Tokyo",
-        "Location": "Tokyo",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/gCcRVyp5I5Q",
-        "Description": "Shinjuku,Tokyo 新宿",
         "Location": "Tokyo",
         "Tags": []
     },
@@ -301,20 +241,8 @@
         "Tags": []
     },
     {
-        "Link": "https://www.youtube.com/live/tdBKk5flbhQ",
-        "Description": "Akihabara, Asakusabashi 東京 総武線 浅草橋駅 秋葉原方面ライブカメラ /",
-        "Location": "Tokyo",
-        "Tags": []
-    },
-    {
         "Link": "https://www.youtube.com/live/nOk4cd0kkp8",
         "Description": "Sensoji Temple, Asakusa, Tokyo 浅草寺",
-        "Location": "Tokyo",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/8oxK2mrDxhQ",
-        "Description": "Asakusa, Tokyo 浅草",
         "Location": "Tokyo",
         "Tags": []
     },
@@ -363,18 +291,6 @@
         ]
     },
     {
-        "Link": "https://www.youtube.com/live/ec02BTeLgj8",
-        "Description": "Yokohama 横浜",
-        "Location": "Yokohama",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/CDhTLTHnxNs",
-        "Description": "Yokohama",
-        "Location": "Yokohama",
-        "Tags": []
-    },
-    {
         "Link": "https://www.youtube.com/live/orjgCwFT_lY",
         "Description": "Minatomirai, Yokohama 横浜みなとみらい",
         "Location": "Yokohama",
@@ -405,38 +321,14 @@
         "Tags": []
     },
     {
-        "Link": "https://www.youtube.com/live/AJ-bLL5fVhQ",
-        "Description": "Inamuragasaki, Kamakura 鎌倉市稲村ヶ崎",
-        "Location": "Kamakura",
-        "Tags": []
-    },
-    {
         "Link": "https://www.youtube.com/live/HXp5x6llMo4",
         "Description": "Karuizawa 軽井沢 小さな鳥とリスの",
         "Location": "Karuizawa",
         "Tags": []
     },
     {
-        "Link": "https://www.youtube.com/live/sbSKv5U0tAc",
-        "Description": "Dotonbori,Osaka",
-        "Location": "Osaka",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/n54AIOJXSOw",
-        "Description": "Dotonbori,Osaka",
-        "Location": "Osaka",
-        "Tags": []
-    },
-    {
         "Link": "https://www.youtube.com/live/qz8F44n5DEw",
         "Description": "Abeno Harukas,Osaka,",
-        "Location": "Osaka",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/kM0b-m82QeA",
-        "Description": "Osaka Itami Airport 大阪・伊丹空港ライブカメラ きょうの滑走路や飛行機の様子は？",
         "Location": "Osaka",
         "Tags": []
     },
@@ -455,18 +347,6 @@
     {
         "Link": "https://www.youtube.com/live/fNhebGkhYDs",
         "Description": "Osaka",
-        "Location": "Osaka",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/pdadPm3p0zw",
-        "Description": "Sin-Osaka Cam",
-        "Location": "Osaka",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/U3YJD92yGYk",
-        "Description": "Osaka 大阪駅・周辺の様子",
         "Location": "Osaka",
         "Tags": []
     },
@@ -513,15 +393,6 @@
         "Tags": []
     },
     {
-        "Link": "https://www.youtube.com/live/kUYtbZ03Gdo",
-        "Description": "Toyonaka Romantic Road 豊中ロマンチック街道",
-        "Location": "Osaka",
-        "Tags": [
-            "toyonaka",
-            "street"
-        ]
-    },
-    {
         "Link": "https://www.youtube.com/live/wuC8wRvXock",
         "Description": "Nishiki Market,Kyoto 京都 錦市場",
         "Location": "Kyoto",
@@ -558,14 +429,6 @@
     {
         "Link": "https://www.youtube.com/live/CF1vS8DdBIk",
         "Description": "Tanukikoji, Sapporo, Hokkaido",
-        "Location": "Sapporo",
-        "Tags": [
-            "hokkaido"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/ybWlQJfQrwM",
-        "Description": "Tanukikoji Shopping Street , Sapporo, Hokkaido",
         "Location": "Sapporo",
         "Tags": [
             "hokkaido"
@@ -644,44 +507,11 @@
         ]
     },
     {
-        "Link": "https://www.youtube.com/live/J3yZ4GMHTk0",
-        "Description": "Kitahirosima City, Hokkaido",
-        "Location": "Kitahirosima",
-        "Tags": [
-            "hokkaido"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/Jb2-Xk8G364",
-        "Description": "Hiroshima Station 1 (広島駅)",
-        "Location": "Hiroshima",
-        "Tags": [
-            "hiroshima"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/iZFJJoTcSfg",
-        "Description": "Hiroshima Station 2 (広島駅)",
-        "Location": "Hiroshima",
-        "Tags": [
-            "hiroshima"
-        ]
-    },
-    {
         "Link": "https://www.youtube.com/live/Iziq6xXPwY0",
         "Description": "Hiroshima Peace Memorial Park (広島平和記念公園)",
         "Location": "Hiroshima",
         "Tags": [
             "hiroshima"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/YfrbKKJ2Ic4",
-        "Description": "Naha Airport Okinawa",
-        "Location": "Okinawa",
-        "Tags": [
-            "naha",
-            "airport"
         ]
     },
     {
@@ -725,12 +555,6 @@
     {
         "Link": "https://www.youtube.com/live/ZJg8Q8Svhr8",
         "Description": "Ishigaki Island, Okinawa (石垣島)",
-        "Location": "Okinawa",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/u5kbHxVUwJI",
-        "Description": "Street view, Ishigaki island, Okinawa (石垣島)",
         "Location": "Okinawa",
         "Tags": []
     },
@@ -797,15 +621,6 @@
         ]
     },
     {
-        "Link": "https://www.youtube.com/live/pgqwfZj9HPY",
-        "Description": "Fushimi Inari Taisha Shrine, Kyoto",
-        "Location": "Kyoto",
-        "Tags": [
-            "shrine",
-            "temple"
-        ]
-    },
-    {
         "Link": "https://www.youtube.com/live/v9rQqa_VTEY",
         "Description": "Kyoto Station Bus Terminal 京都駅前バス乗り場ライブカメラ",
         "Location": "Kyoto",
@@ -849,12 +664,6 @@
     {
         "Link": "https://www.youtube.com/live/Gn2CJjzY068",
         "Description": "Lake Yamanakako, Yamanashi (山中湖)",
-        "Location": "Yamanashi",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/VPcFRqHTrc0",
-        "Description": "JR Chuo Line, Fuefuki City, Yamanashi",
         "Location": "Yamanashi",
         "Tags": []
     },
@@ -918,32 +727,8 @@
         ]
     },
     {
-        "Link": "https://www.youtube.com/live/dXlicKW1AgM",
-        "Description": "Matsumoto Castle Cam 2, Nagano",
-        "Location": "Matsumoto",
-        "Tags": [
-            "Nagano"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/xtjxEODChxg",
-        "Description": "Matsumoto Castle Cam 1, Nagano",
-        "Location": "Matsumoto",
-        "Tags": [
-            "Nagano"
-        ]
-    },
-    {
         "Link": "https://www.youtube.com/live/_G5cf3y6ePk",
         "Description": "Matsumoto Castle Cam 4, Nagano",
-        "Location": "Matsumoto",
-        "Tags": [
-            "Nagano"
-        ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/t-6Ujc2B8QE",
-        "Description": "Matsumoto Castle Cam 3, Nagano",
         "Location": "Matsumoto",
         "Tags": [
             "Nagano"
@@ -970,12 +755,6 @@
         "Tags": [
             "Kyushu"
         ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/xyNehpK7kmk",
-        "Description": "Hakata Station, Fukuoka 博多駅",
-        "Location": "Fukuoka",
-        "Tags": []
     },
     {
         "Link": "https://www.youtube.com/live/rGtE0C62fss",
@@ -1020,12 +799,6 @@
         "Tags": []
     },
     {
-        "Link": "https://www.youtube.com/live/ZoLov_-A-oM",
-        "Description": "Ojika Island , Nagasaki 小値賀島",
-        "Location": "Nagasaki",
-        "Tags": []
-    },
-    {
         "Link": "https://www.youtube.com/live/RT_yg_qsK_M",
         "Description": "Kusatsu Onsen, Gunma 草津温泉",
         "Location": "Gunma",
@@ -1044,11 +817,5 @@
         "Tags": [
             "Earthquake Monitoring"
         ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/NEdlZj7vKmo",
-        "Description": "台灣-日本】地震即時觀測/【台日】地震モニタリング/【Taiwan-】Earthquake Real-Time Monitoring",
-        "Location": "Earthquake Monitoring",
-        "Tags": []
     }
 ]
