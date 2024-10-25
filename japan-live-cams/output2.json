@@ -181,6 +181,12 @@
         "Tags": []
     },
     {
+        "Link": "https://www.youtube.com/live/hBiBadOukZA",
+        "Description": "Precincts of Sensoji Temple 浅草寺の境内",
+        "Location": "Tokyo",
+        "Tags": []
+    },
+    {
         "Link": "https://www.youtube.com/live/qMDxy_qbdtE",
         "Description": "Tokyo Bay, Sea and Sky",
         "Location": "Tokyo",
@@ -219,12 +225,6 @@
     {
         "Link": "https://www.youtube.com/live/8e761gp0jgY",
         "Description": "Ebisu,Shibuya City, Tokyo 恵比寿駅前のライブカメラ",
-        "Location": "Tokyo",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/CJalEPXxYi8",
-        "Description": "TOKYO Nakano Okubo Street 中野ライブ(大久保通り)",
         "Location": "Tokyo",
         "Tags": []
     },
@@ -273,12 +273,6 @@
     {
         "Link": "https://www.youtube.com/live/GrEEoEmmrKs",
         "Description": "Yubatake (Kusatsu Onsen), Gunma 湯畑",
-        "Location": "Gunma",
-        "Tags": []
-    },
-    {
-        "Link": "https://www.youtube.com/live/DSEesr7uFh8",
-        "Description": "Marunuma Plateau, 2000m above sea level, Terrace, Gunma",
         "Location": "Gunma",
         "Tags": []
     },
@@ -551,12 +545,6 @@
         "Tags": [
             "naha"
         ]
-    },
-    {
-        "Link": "https://www.youtube.com/live/YJEaQjiLWwg",
-        "Description": "Malibu Beach, Okinawa (沖縄県国頭郡恩納村)",
-        "Location": "Okinawa",
-        "Tags": []
     },
     {
         "Link": "https://www.youtube.com/live/ZJg8Q8Svhr8",
