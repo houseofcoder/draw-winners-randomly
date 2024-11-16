@@ -61,22 +61,26 @@
 </head>
 
 <body>
-
-    <div class="quiz-container">
-        <h1>Fun with Flags Quiz</h1>
-        <p>How well do you know your world flags? Test your skills in this fun and educational quiz game!</p>
-        <div id="quiz">
-            <img id="flag-img" class="flag-img" src="" alt="Country Flag">
-            <ul id="options" class="options mt-4"></ul>
-            <button id="show-answer-btn" class="btn btn-warning w-100">Show Answer</button>
-            <button id="next-btn" class="btn btn-primary w-100">Next</button>
-        </div>
-        <div id="result" style="display: none;">
-            <h2>Quiz Completed!</h2>
-            <p id="score"></p>
+    <div class="container mt-4">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <h1 class="text-center">Fun with Flags Quiz</h1>
+                <p class="text-center">How well do you know your world flags? Test your skills in this fun and educational quiz game!</p>
+                <div id="quiz-container" class="card p-4 pt-2">
+                    <div class="text-center">
+                        <img id="flag-img" class="flag-img" src="" alt="Country Flag">
+                    </div>
+                    <div id="options-container" class="d-grid gap-2">
+                        <ul id="options" class="options mt-4"></ul>
+                    </div>
+                    <div class="text-center mt-3">
+                        <button id="show-answer-btn" class="btn btn-warning w-100">Show Answer</button>
+                        <button id="next-btn" class="btn btn-primary w-100">Next</button>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-
     <script src="quiz.js"></script>
 </body>
 
